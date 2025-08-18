@@ -20,7 +20,7 @@ python convert_yolo2coco.py \
   --images_dir ./dataset/train/images \
   --labels_dir ./dataset/train/labels \
   --classes    ./classes.txt \
-  --output     ./output/Temp_S1_KOR_Rain_250626_train_coco.json   
+  --output     ./output/train_coco.json   
 ```   
 #### Arguments (YOLO → COCO)
 
